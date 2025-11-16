@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a computer engineering sophomore and a C++ lover at Mississippi state university, Starkville.<br>👯 I’m looking to collaborate on projects based in python, Java, C++   <br>🌱 I’m currently learning Javascript and Machine Learning<br>⚡ Fun fact: I like reading books. 
+🔭 I am a computer science junior at Mississippi state university, Starkville.<br>👯 I love to participate in hackathons   <br>🌱 I’m currently learning Javascript and Machine Learning<br>⚡ Fun fact: I like reading books. 
 
 
 ## 🌐 Socials:
