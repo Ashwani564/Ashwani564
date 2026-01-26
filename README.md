@@ -2,8 +2,8 @@
 🔭 I am a computer science junior at Mississippi state university, Starkville.<br>👯 I love to participate in hackathons   <br>🌱 I’m currently learning Javascript and Machine Learning<br>⚡ Fun fact: I like reading books. 
 
 # Achievements
-<br> First Position at Mississippi State University DataThon, Spring 2026
-<br> Third Position at Competitive Programming Competition, Spring 2026
+<br> First Position at Mississippi State University DataThon, Fall 2025
+<br> Third Position at Competitive Programming Competition, Fall 2025
 <br> Won Best Use Of Gemini at UTA Hackerverse
 
 ## 🌐 Socials:
